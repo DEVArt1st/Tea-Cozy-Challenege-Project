@@ -10,5 +10,7 @@ This was an off-platform project created by [Codecademy](https://www.codecademy.
 ## Completed Project Link:
 ~~PROJECT LINK~~(Coming Soon)
 <br>
+
+## Credit:
 ##### README Writer: [DEVArtist](https://github.com/DEVArt1st) 
 ##### Project Creator: [avatar8701](https://github.com/avatar8701)
