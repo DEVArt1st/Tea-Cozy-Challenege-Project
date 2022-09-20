@@ -12,5 +12,5 @@ This was an off-platform project created by [Codecademy](https://www.codecademy.
 <br>
 
 ## Credit:
-##### README Writer: [DEVArtist](https://github.com/DEVArt1st) 
+##### README Writer: [DEVArtist](https://github.com/DEVArt1st) (Isaiah Brown)
 ##### Project Creator: [avatar8701](https://github.com/avatar8701)
