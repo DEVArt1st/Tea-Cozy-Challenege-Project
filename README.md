@@ -8,7 +8,7 @@ This was an off-platform project created by [Codecademy](https://www.codecademy.
  - [x] CSS
 
 ## Completed Project Link:
-https://github.com/avatar8701/Tea-Cozy-Challenege-Project
+~~PROJECT LINK~~(Coming Soon)
 <br>
 ##### README Writer: [DEVArtist](https://github.com/DEVArt1st) 
 ##### Project Creator: [avatar8701](https://github.com/avatar8701)
